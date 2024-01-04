@@ -1,7 +1,9 @@
 ![GitHub Thiago](https://github.com/Thiago0808/Thiago0808/assets/141963700/7b592df8-5510-4019-9f87-22af1c869f24)
 
 ### ⛵ Sou um desenvolvedor full stack navegando pelos complexos desafios da tecnologia ⛵
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago0808&theme=dracula&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago0808&theme=dracula&layout=pie)](https://github.com/anuraghazra/github-readme-stats&locale=pt-br)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago0808&show_icons=true&hide_rank=true&include_all_commits=true&locale=pt-br&theme=dracula&hide=prs,contribs)
 
 <!--
 **Thiago0808/Thiago0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ![GitHub Thiago](https://github.com/Thiago0808/Thiago0808/assets/141963700/7b592df8-5510-4019-9f87-22af1c869f24)
 
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago0808&theme=dracula&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Thiago0808/Thiago0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

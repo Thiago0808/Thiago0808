@@ -1,3 +1,5 @@
+![GitHub Thiago](https://github.com/Thiago0808/Thiago0808/assets/141963700/7b592df8-5510-4019-9f87-22af1c869f24)
+
 ### Hi there 👋
 
 <!--

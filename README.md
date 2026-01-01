@@ -3,11 +3,11 @@
 <h1 align="center">⛵ I am a full stack developer navigating through the complex challenges of technology ⛵</h1>
 
 <div align="center">
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago0808&layout=pie&theme=algolia&count_private=true&include_all_commits=true&hide=contribs" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-rho-nine-10.vercel.app/api/top-langs/?username=Thiago0808&layout=pie&theme=algolia&count_private=true&include_all_commits=true&hide=contribs" />
 
 
 
-<img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Thiago0808&show_icons=true&hide_rank=true&include_all_commits=true&theme=algolia&hide=prs,contribs&count_private=true" /></div>
+<img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats-rho-nine-10.vercel.app/api?username=Thiago0808&show_icons=true&hide_rank=true&include_all_commits=true&theme=algolia&hide=prs,contribs&count_private=true" /></div>
 
 </div>
 
